@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32319.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domain", "Domain\Domain.csproj", "{DEFFFFE8-DC5B-42F4-BEB0-94920FDA7712}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Common", "Common\Common.csproj", "{D7CE4D23-9D31-4D46-A250-2A6FA76E6CEA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DEFFFFE8-DC5B-42F4-BEB0-94920FDA7712}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DEFFFFE8-DC5B-42F4-BEB0-94920FDA7712}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DEFFFFE8-DC5B-42F4-BEB0-94920FDA7712}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DEFFFFE8-DC5B-42F4-BEB0-94920FDA7712}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D7CE4D23-9D31-4D46-A250-2A6FA76E6CEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7CE4D23-9D31-4D46-A250-2A6FA76E6CEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7CE4D23-9D31-4D46-A250-2A6FA76E6CEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7CE4D23-9D31-4D46-A250-2A6FA76E6CEA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1EFA4ADC-373A-49A5-BC0D-60711326D63A}
+		EnterpriseLibraryConfigurationToolBinariesPath = packages\Unity.2.1.505.0\lib\NET35
+	EndGlobalSection
+EndGlobal
