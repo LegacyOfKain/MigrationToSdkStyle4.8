@@ -9,7 +9,7 @@ namespace CleanArchitecture.Domain
     {
         public static void Main(string[] args)
         {
-            Console.WriteLine("jkjkj");
+            Console.WriteLine("jkjjjjkj");
 
 
 
